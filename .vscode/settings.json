@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "229E---WallBreaker.slnx",
+    "dotnet.defaultSolution": "229E-WallBreaker.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
